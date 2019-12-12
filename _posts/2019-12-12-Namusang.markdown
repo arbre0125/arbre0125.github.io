@@ -1,0 +1,5 @@
+---
+layout: post
+---
+<img src="/images/fulls/dinner.jpg" class="fit image"> 
+Dinner namusang ate 2 years ago
